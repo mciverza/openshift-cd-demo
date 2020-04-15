@@ -1,5 +1,7 @@
 *For other versions of OpenShift, follow the instructions in the corresponding branch.
 
+update README
+
 # CI/CD Demo - OpenShift Container Platform 4.3
 
 This repository includes the infrastructure and pipeline definition for continuous delivery using Jenkins, Nexus, SonarQube and Eclipse Che on OpenShift. 
