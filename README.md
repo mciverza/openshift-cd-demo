@@ -1,3 +1,11 @@
+# CHANGES
+The template file doesn't create the buildConfig "tasks" in dev-opentlc namespace
+The pipeline Jenkinsfile refers to image named "tasks-app" instead of "tasks"
+The template creates deploymentConfig named "tasks" containing 2 containers, instead of one.
+
+-----------------
+
+
 *For other versions of OpenShift, follow the instructions in the corresponding branch.
 
 # CI/CD Demo - OpenShift Container Platform 4.3
